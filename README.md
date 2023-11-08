@@ -32,10 +32,12 @@
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/7b683f3d-a44d-494a-a294-7e53a30ce2f1) <br>
 
 
-· logo passamos pra ele "valendoo.php" e clicamos nele
+· logo passamos pra href = "valendoo.php" 
 
 > [!IMPORTANT]
 > ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/849126d9-6b96-425f-9ec9-1bbf6b686b78) <br>
+
+· Clicamos nele
 > ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/86273506-451f-4464-afe8-975d87dd51be) <br>
 
 ## 04  
