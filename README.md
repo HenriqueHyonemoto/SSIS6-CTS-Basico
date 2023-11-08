@@ -1,6 +1,3 @@
-# CTF-Basico
- Repositório com ideia de CTF para que possamos implementar melhorias e estudantes possam usar testando os conhecimentos
-
 # Executando: 
 · Crie uma pasta chamada ADS diretamente na pasta do XAMPP -> (\XAMPP\htdocs\ADS) <br>
 · Clone/Pull o repositorio dentro dela <br>
