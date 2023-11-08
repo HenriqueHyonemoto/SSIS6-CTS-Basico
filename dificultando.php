@@ -23,7 +23,7 @@ $imp = md5($_SESSION["ravai"] . "abc");
       <h1><span class="badge badge-secondary"> Para alcançar o próximo nível digite sua senha.</span></h1>
       <div class="formcentro">
         <form action="dificultando-nivel.php" method="post" autocomplete="off">
-          <input type="text" class="form-control-lg" size="30" onpaste="return false" placeholder="Digite sua senha!" name="pass" required="required" autofocus onclick="this.value = '';"/>
+          <input type="text" class="form-control-lg" size="30" onpaste="return false" placeholder="Digite sua senha!" name="pass" required="required" autofocus />
           <input type="hidden" value="<?php echo $imp; ?>" name="passwd">
           <input class="btn btn-danger btn-lg" type="submit" value="Mantenha Foco" />
         </form>

@@ -26,7 +26,7 @@
           <h2><span class="badge badge-secondary">Digite a senha que você descobriu, com base no hash acima.</span></h2>
           <div class="formcentro">
             <form name="Hash" action="1.php" method="POST" autocomplete="off">               
-              <input autofocus class="form-control-lg"  onpaste="return false"  onclick="this.value = '';" type="text" size="30" name="senha" placeholder="Digite a Senha" required="required" pattern=".{15,}" />
+              <input autofocus class="form-control-lg"  onpaste="return false"  type="text" size="30" name="senha" placeholder="Digite a Senha" required="required" pattern=".{15,}" />
               <input class="btn btn-danger btn-lg" type="submit" value="Validar Senha" />
             </form>
           </div>

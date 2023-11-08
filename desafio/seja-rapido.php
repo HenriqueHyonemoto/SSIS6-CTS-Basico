@@ -17,7 +17,7 @@ if ($_SESSION["nomevai"] != "") {
     <script src="../js/dez.js" type="text/javascript"></script>
 
   </head>
-  <body onkeyup="teclas(event);" onselectstart="return false">
+  <body onkeydown="teclas(event);" onselectstart="return false">
     <div class="princ">
       <hr>
       <h2><span class="badge badge-primary">Para completar a Fase, chame o professor e mostre como chegou nesta pagina.</span></h2>

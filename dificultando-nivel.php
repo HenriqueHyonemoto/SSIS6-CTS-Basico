@@ -12,8 +12,8 @@
       <?php
       $urlvem = $_SERVER['HTTP_REFERER'];
       $urlvai = explode("/", $urlvem);
-      
-      if ($urlvai[5] != "dificultando.php") {
+      //O ORIGINAL ERA 5
+      if ($urlvai[4] != "dificultando.php") {
         echo "<h1 class=\"alert alert-warning\" role=\"alert\">Querendo burlar a prova!?</h1><meta HTTP-EQUIV='Refresh' CONTENT='2;URL=bb.php'>";
       } else {
 
