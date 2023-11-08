@@ -87,5 +87,17 @@
 · Codigo fonte fala sobre pressionar teclas, testei todas, mas nenhuma funcionou
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/03dea725-f6bb-41b2-98bb-a2d876df33f3)
 
-## 09
+> [!IMPORTANT] 
+> Senha:  <br>
+
+## 09 (localhost/ADS/fasefinal.php)
+
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/a8810d42-e434-438a-b94b-1edaf17bf39d)
+
+· Clicar no botão leva para uma pagina externa:
+
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/58ec0093-9300-4415-8c77-91d1a1ecc39a)
+
 ## 10
+
+???
