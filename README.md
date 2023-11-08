@@ -74,19 +74,18 @@
 > Login: onucleo <br>
 > Senha: 2019 <br>
 
-· Porém ele pele mais uma senha <br>
+## 07
+
+· Ele pele mais uma senha <br>
 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/c1b5696c-9738-44c5-a8e7-9730929cf8f7)
 
 > [!IMPORTANT] 
 > Senha: seja-rapido <br>
 
-
-
-## 07
-· Codigo fonte fala sobre pressionar teclas
+## 08
+· Codigo fonte fala sobre pressionar teclas, testei todas, mas nenhuma funcionou
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/03dea725-f6bb-41b2-98bb-a2d876df33f3)
 
-## 08
 ## 09
 ## 10
