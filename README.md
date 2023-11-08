@@ -42,6 +42,17 @@
 · Codigo fonte fala sobre algum arquivo de leitura
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7ee5e7a-9e33-4799-88d9-c8500fc4d111)
 
+· Descobrimos que as imagens estão em uma pasta chamada /pictures/
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/baa3d55c-e600-4ec5-bcc2-815831135187)
+· Colocamos *localhost/ADS/pictures/* na URL e encontramos varias imagens
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/28ce7226-8c43-4590-85ff-123f36ddd6de)
+· imagem.png contém
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/0d4ed7bf-e8a6-4bcf-acb4-9d10f32113d3)
+
+· Coloca o nome da pagina na URL
+> [!IMPORTANT]
+> localhost/ADS/pictures/imagem.png
+
 
 ## 05 
 ## 06 
