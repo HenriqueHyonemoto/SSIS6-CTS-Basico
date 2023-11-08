@@ -24,6 +24,10 @@
 *é necessario digitar no campo <br>
 
 ## 03 
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9a8750c0-b099-4ef0-88c0-1b64e7babcc0)
+
+· Dando CTRL + A na pagina, é possivel ver um texto "Prova de Segurança! Siga para a pagina valendoo.php"
+         
 ## 04 
 ## 05 
 ## 06 
