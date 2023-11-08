@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>JavaScript: Eventos</title>
+        <meta charset="UTF-8">
+        <style>
+            body{
+                background-color: #000;
+            }
+            img{
+                position: absolute;
+                top: 60px;
+                left: 80px;
+            }
+            .cx{
+                background-color: #fff;
+                width: 18px;
+                height: 6px;
+                margin: 2px;
+            }
+            #d1{
+                position: absolute;
+                top: 310px;
+                left: 120px;
+            }
+            #d2{
+                position: absolute;
+                top: 310px;
+                left: 144px;
+            }
+            #d3{
+                position: absolute;
+                top: 310px;
+                left: 168px;
+            }
+            #d4{
+                position: absolute;
+                top: 310px;
+                left: 192px;
+            }
+        </style>
+        <script>
+            function teclas(b){var d=document.getElementsByTagName("img");if("correct-md.png"!==d[0].getAttribute("src")){var e;window.event?e=b.keyCode:b.which&&(e=b.which),digitadas[digitadas.length]=e;for(var f=!0,g=0;g<digitadas.length;g++){var h=null;g>0&&4>=g&&(digitadas[g]&&a(digitadas[g],!0)===a(c(g),!1)?(h=document.getElementById("d"+g),h.style.backgroundColor="green"):(h=document.getElementById("d"+g),h.style.backgroundColor="red",f=!1))}5===digitadas.length&&(f?w():(alert("Senha incorreta!"),l()))}}function l(){digitadas.length=0;for(var a=document.getElementsByClassName("cx"),b=0;b<a.length;b++)a[b].style.backgroundColor="#fff"}function c(a){return 1===a?13:2===a?20:3===a?70:4===a?73:void 0}function a(a,b){return b?1.0897*a/1.0897:487.48745*a/487.48745}function w(){var a=document.getElementsByTagName("img");a[0].setAttribute("src","correct-md.png")}var digitadas=[];            
+        </script>
+    </head>
+    <body onkeyup="teclas(event);">
+        <img src="padlock-161059_640.png" alt='-' width="180" />
+        <div class="cx" id='d1'></div>
+        <div class="cx" id='d2'></div>
+        <div class="cx" id='d3'></div>
+        <div class="cx" id='d4'></div>
+    </body>
+</html>
