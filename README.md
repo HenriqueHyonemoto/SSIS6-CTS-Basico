@@ -7,13 +7,13 @@
 · Abra *localhost/ADS* no seu navegador <br>
 
 # Respostas
-## 01
+## 01 (localhost/ADS/)->indexx.php
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/7c6e61c6-8536-4fd9-b626-9478d545fe48) <br>
 > [!IMPORTANT]
 > Primeiro: HHyonemoto <br>
 > Prontuario: VP123456 <br>
 
-## 02 
+## 02 (localhost/ADS/)->0.php
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/c6af3fc8-fb03-4395-97f0-af27a086ba20) <br>
 
 · Pesquisar por HASH decode <br>
@@ -23,7 +23,7 @@
 > Senha: 12$eqd&;asd990- <br>
 *é necessario digitar no campo <br>
 
-## 03 
+## 03  (localhost/ADS/)->1.php
 · Dando CTRL + A na pagina, é possivel ver um texto "Prova de Segurança! Siga para a pagina valendoo.php" <br>
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9a8750c0-b099-4ef0-88c0-1b64e7babcc0) <br>
 
@@ -40,7 +40,7 @@
 · Clicamos nele
 > ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/86273506-451f-4464-afe8-975d87dd51be) <br>
 
-## 04  
+## 04 (localhost/ADS/)->valendoo.php   
 · Codigo fonte fala sobre algum arquivo de leitura <br>
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7ee5e7a-9e33-4799-88d9-c8500fc4d111) <br>
 
@@ -55,7 +55,7 @@
 > [!IMPORTANT] 
 > localhost/ADS/pictures/dificultando.php <br>
 
-## 05 
+## 05 (localhost/ADS/dificultando.php)   
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7b3900c-fac8-456a-92a5-2370488ef796)
 
 · Este nivel diz que é necessario chamar o professor pra poder completar a fase <br>
@@ -65,7 +65,7 @@
 · Digite a senha e clique no botão normalmente <br>
 > [!IMPORTANT] 
 > Senha: VP123456 <br>
-## 06 
+## 06 (localhost/ADS/dificultando-nivel.php)
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9c0fb9ad-7d61-410a-a44f-1a95fd551f17)<br>
 · No arquivo logo.psd é encontrado uma camada chamada:
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9d7cde39-bbdf-497b-85e7-d28a15753af9)<br>
@@ -74,7 +74,7 @@
 > Login: onucleo <br>
 > Senha: 2019 <br>
 
-## 07
+## 07 (localhost/ADS/quasela.php) 
 
 · Ele pele mais uma senha <br>
 
@@ -83,7 +83,7 @@
 > [!IMPORTANT] 
 > Senha: seja-rapido <br>
 
-## 08
+## 08 (localhost/ADS/desafio/seja-rapido.php)
 · Codigo fonte fala sobre pressionar teclas, testei todas, mas nenhuma funcionou
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/03dea725-f6bb-41b2-98bb-a2d876df33f3)
 
@@ -98,6 +98,6 @@
 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/58ec0093-9300-4415-8c77-91d1a1ecc39a)
 
-## 10
+## 10 ??? (overthewire.org/wargames/bandit/)???
 
 ???
