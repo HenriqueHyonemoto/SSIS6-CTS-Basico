@@ -52,7 +52,7 @@
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/0d4ed7bf-e8a6-4bcf-acb4-9d10f32113d3) <br>
 
 · Coloca o nome da pagina na URL <br>
-> [!IMPORTANT] <br>
+> [!IMPORTANT] 
 > localhost/ADS/pictures/imagem.png <br>
 
 
