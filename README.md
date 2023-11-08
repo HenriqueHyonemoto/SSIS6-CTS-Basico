@@ -70,10 +70,16 @@
 · No arquivo logo.psd é encontrado uma camada chamada:
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9d7cde39-bbdf-497b-85e7-d28a15753af9)<br>
 
+> [!IMPORTANT]
+> Login: onucleo <br>
+> Senha: 2019 <br>
+
 · Porém ele pele mais uma senha <br>
 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/c1b5696c-9738-44c5-a8e7-9730929cf8f7)
 
+> [!IMPORTANT] 
+> Senha: seja-rapido <br>
 
 
 
