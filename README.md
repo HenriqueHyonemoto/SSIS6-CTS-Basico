@@ -24,10 +24,20 @@
 *é necessario digitar no campo <br>
 
 ## 03 
+· Dando CTRL + A na pagina, é possivel ver um texto "Prova de Segurança! Siga para a pagina valendoo.php"
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9a8750c0-b099-4ef0-88c0-1b64e7babcc0)
 
-· Dando CTRL + A na pagina, é possivel ver um texto "Prova de Segurança! Siga para a pagina valendoo.php"
-         
+
+· Porém, no codigo fonte, o href esta vazio, o que impossibilita de levar para a proxima pagina
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/7b683f3d-a44d-494a-a294-7e53a30ce2f1)
+
+· logo passamos pra ele "valendoo.php" e clicamos nele
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/849126d9-6b96-425f-9ec9-1bbf6b686b78)
+
+> [!IMPORTANT]
+> <a href="valendoo.php">valendoo.php</a>
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/86273506-451f-4464-afe8-975d87dd51be)
+
 ## 04 
 ## 05 
 ## 06 
