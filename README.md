@@ -55,8 +55,10 @@
 > [!IMPORTANT] 
 > localhost/ADS/pictures/dificultando.php <br>
 
-
 ## 05 
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7b3900c-fac8-456a-92a5-2370488ef796)
+
+· Este nivel diz que é necessario chamar o professor pra poder completar a fase <br>
 ## 06 
 ## 07
 ## 08
