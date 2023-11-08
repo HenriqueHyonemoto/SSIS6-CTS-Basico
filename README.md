@@ -66,6 +66,13 @@
 > [!IMPORTANT] 
 > Senha: VP123456 <br>
 ## 06 
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9c0fb9ad-7d61-410a-a44f-1a95fd551f17)<br>
+· No arquivo logo.psd é encontrado uma camada chamada:
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/4eeaa5e5-7566-4d14-b8bf-e56eeabad066)<br>
+
+
+
+
 ## 07
 ## 08
 ## 09
