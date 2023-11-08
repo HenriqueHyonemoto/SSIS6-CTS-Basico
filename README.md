@@ -9,7 +9,7 @@
 # Respostas
 ## 01 (localhost/ADS/)->indexx.php
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/7c6e61c6-8536-4fd9-b626-9478d545fe48) <br>
-> [!IMPORTANT]
+> [!NOTE]
 > Primeiro: HHyonemoto <br>
 > Prontuario: VP123456 <br>
 
@@ -19,7 +19,7 @@
 · Pesquisar por HASH decode <br>
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/64a2a3ed-a0fc-4a46-ad97-60d57166f60c) <br>
 
-> [!IMPORTANT]
+> [!NOTE]
 > Senha: 12$eqd&;asd990- <br>
 *é necessario digitar no campo <br>
 
@@ -34,7 +34,7 @@
 
 · logo passamos pra href = "valendoo.php" 
 
-> [!IMPORTANT]
+> [!NOTE]
 > ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/849126d9-6b96-425f-9ec9-1bbf6b686b78) <br>
 
 · Clicamos nele
@@ -52,7 +52,7 @@
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/0d4ed7bf-e8a6-4bcf-acb4-9d10f32113d3) <br>
 
 · Coloca o nome da pagina na URL <br>
-> [!IMPORTANT] 
+> [!NOTE] 
 > localhost/ADS/pictures/dificultando.php <br>
 
 ## 05 (localhost/ADS/dificultando.php)   
@@ -63,14 +63,14 @@
 · Troquei o codigo original, aqui por 4 (pois esse comando conta o lugar que a palavra ta na url, os anteriores estavam 4, porém esse estava 5, o que necessitaria de dificultando.php estar entro de mais uma pasta ao invés de ADS (Ex ADS/PastaNova/dificultando.php).<br>
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/649c93a3-192e-4c74-841b-fc5bbcad4172) <br>
 · Digite a senha e clique no botão normalmente <br>
-> [!IMPORTANT] 
+> [!NOTE] 
 > Senha: VP123456 <br>
 ## 06 (localhost/ADS/dificultando-nivel.php)
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9c0fb9ad-7d61-410a-a44f-1a95fd551f17)<br>
 · No arquivo logo.psd é encontrado uma camada chamada:
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9d7cde39-bbdf-497b-85e7-d28a15753af9)<br>
 
-> [!IMPORTANT]
+> [!NOTE]
 > Login: onucleo <br>
 > Senha: 2019 <br>
 
@@ -99,8 +99,11 @@
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/58ec0093-9300-4415-8c77-91d1a1ecc39a)
 
 > [!WARNING] 
-> Senha:  <br>
+> ???  <br>
 
 ## 10 ??? (overthewire.org/wargames/bandit/)???
 
 ???
+
+> [!WARNING] 
+> ???  <br>
