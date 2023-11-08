@@ -1,0 +1,11 @@
+# Rule 1
+User-agent: Googlebot
+Disallow: /css/
+Disallow: /desafio/
+Disallow: /pictures/
+
+# Rule 2
+User-agent: *
+Allow: /cve
+
+# Sitemap: https://www.base64encode.org/

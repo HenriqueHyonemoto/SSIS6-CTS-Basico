@@ -1,0 +1,123 @@
+<html>
+    <head>
+        <title>JavaScript: Eventos</title>
+        <meta charset="UTF-8">
+        <style>
+            body{
+                background-color: #fff;
+            }
+            img{
+                position: absolute;
+                top: 60px;
+                left: 80px;
+            }
+            .cx{
+                background-color: #fff;
+                border: #000 solid 1px;
+                width: 18px;
+                height: 6px;
+                margin: 2px;
+            }
+            #d1{
+                position: absolute;
+                top: 310px;
+                left: 120px;
+            }
+            #d2{
+                position: absolute;
+                top: 310px;
+                left: 144px;
+            }
+            #d3{
+                position: absolute;
+                top: 310px;
+                left: 168px;
+            }
+            #d4{
+                position: absolute;
+                top: 310px;
+                left: 192px;
+            }
+        </style>
+        <script>
+            
+            var digitadas = [];
+
+            function teclas(tecla) {
+                var e = document.getElementsByTagName("img");
+                if (e[0].getAttribute("src") !== "correct-md.png") {
+                    var keynum;
+                    if (window.event) { // IE					
+                        keynum = tecla.keyCode;
+                    } else if (tecla.which) { // Netscape/Firefox/Opera					
+                        keynum = tecla.which;
+                    }
+                    digitadas[digitadas.length] = keynum;
+                    var val = true;
+                    for (var i = 0; i < digitadas.length; i++) {
+                        var elem = null;
+                        if (i > 0 && i <= 4) {
+                            if (digitadas[i] && a(digitadas[i], true) === a(c(i), false)) {
+                                elem = document.getElementById("d" + i);
+                                elem.style.backgroundColor = "green";
+                                
+                            } else {
+                                elem = document.getElementById("d" + i);
+                                elem.style.backgroundColor = "red";
+                                val = false;
+                            }
+                        }
+                    }
+                    if (digitadas.length === 5) {
+                        if (!val) {
+                            alert("Senha incorreta!");
+                            l();
+                        } else {
+                            w();
+                        }
+                    }
+                }
+            }
+
+            function l() {
+                digitadas.length = 0;
+                var divs = document.getElementsByClassName("cx");
+                for (var j = 0; j < divs.length; j++) {
+                    divs[j].style.backgroundColor = "#fff";
+                }
+            }
+
+            function c(i) {
+                if (i === 1)
+                    return 13; // ENTER
+                if (i === 2)
+                    return 20; // CAPS
+                if (i === 3)
+                    return 83; // s
+                if (i === 4)
+                    return 73; // i
+            }
+
+            function a(v, p) {
+                if (p) {
+                    return (v * 1.0897) / 1.0897;
+                } else {
+                    return (v * 487.48745) / 487.48745;
+                }
+            }
+
+            function w() {
+                var e = document.getElementsByTagName("img");
+                e[0].setAttribute("src", "correct-md.png");
+            }
+        </script>
+        
+    </head>
+    <body onkeyup="teclas(event);">
+        <img src="padlock-161059_640.png" alt='-' width="180" />
+        <div class="cx" id='d1'></div>
+        <div class="cx" id='d2'></div>
+        <div class="cx" id='d3'></div>
+        <div class="cx" id='d4'></div>
+    </body>
+</html>
