@@ -31,8 +31,8 @@
 · Porém, no codigo fonte, o href esta vazio, o que impossibilita de levar para a proxima pagina
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/7b683f3d-a44d-494a-a294-7e53a30ce2f1)
 
-· logo passamos pra ele "valendoo.php" e clicamos nele
 
+· logo passamos pra ele "valendoo.php" e clicamos nele
 
 > [!IMPORTANT]
 > ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/849126d9-6b96-425f-9ec9-1bbf6b686b78)
