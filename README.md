@@ -53,7 +53,7 @@
 
 · Coloca o nome da pagina na URL <br>
 > [!IMPORTANT] 
-> localhost/ADS/pictures/imagem.png <br>
+> localhost/ADS/pictures/dificultando.php <br>
 
 
 ## 05 
