@@ -60,7 +60,7 @@
 
 · Este nivel diz que é necessario chamar o professor pra poder completar a fase <br>
 
-· Troquei aqui por 4 <br>
+· Troquei o codigo original, aqui por 4 (Talvez o professor orientava os alunos a colocarem o dificultando-nivel.php (que é o nivel 7)em uma nova pasta criada, pois esse comando conta o lugar que a palavra ta na url.<br>
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/649c93a3-192e-4c74-841b-fc5bbcad4172) <br>
 · Digite a senha e clique no botão normalmente <br>
 > [!IMPORTANT] 
