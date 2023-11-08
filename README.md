@@ -82,8 +82,8 @@
 
 > [!IMPORTANT] 
 > Senha: seja-rapido <br>
-De onde?
 
+De onde?
 
 ## 08 (localhost/ADS/desafio/seja-rapido.php)
 · Codigo fonte fala sobre pressionar teclas, testei todas, mas nenhuma funcionou
