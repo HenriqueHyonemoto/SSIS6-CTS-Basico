@@ -9,9 +9,9 @@
 # Respostas
 ## 01
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/7c6e61c6-8536-4fd9-b626-9478d545fe48)
-
-Primeiro Nome = ~~Pode ser quaalquer coisa <br>
-Prontuario iniciado com VP = VP123456 <br>
+> [!IMPORTANT]
+> Primeiro: HHyonemoto <br>
+> Prontuario: VP123456 <br>
 
 ## 02 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/c6af3fc8-fb03-4395-97f0-af27a086ba20)
