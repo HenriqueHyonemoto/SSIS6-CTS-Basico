@@ -59,6 +59,12 @@
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7b3900c-fac8-456a-92a5-2370488ef796)
 
 · Este nivel diz que é necessario chamar o professor pra poder completar a fase <br>
+
+· Troquei aqui por 4 <br>
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/649c93a3-192e-4c74-841b-fc5bbcad4172) <br>
+· Digite a senha e clique no botão normalmente <br>
+> [!IMPORTANT] 
+> Senha: VP123456 <br>
 ## 06 
 ## 07
 ## 08
