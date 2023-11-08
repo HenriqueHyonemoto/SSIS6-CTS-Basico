@@ -39,6 +39,10 @@
 > ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/86273506-451f-4464-afe8-975d87dd51be)
 
 ## 04 
+· Codigo fonte fala sobre algum arquivo de leitura
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7ee5e7a-9e33-4799-88d9-c8500fc4d111)
+
+
 ## 05 
 ## 06 
 ## 07
