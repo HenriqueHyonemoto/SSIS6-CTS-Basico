@@ -53,7 +53,7 @@
 > localhost/ADS/pictures/dificultando.php <br>
 
 ## 05 (localhost/ADS/dificultando.php)   
-![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7b3900c-fac8-456a-92a5-2370488ef796)
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7b3900c-fac8-456a-92a5-2370488ef796) <br>
 
 · Este nivel diz que é necessario chamar o professor pra poder completar a fase <br>
 
@@ -70,12 +70,12 @@
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b07669bb-4fcc-4e16-a1bc-2bb4487f8b0b) <br>
 
 > [!NOTE]
-> Login: onucleo <br>
-> Senha: 2019 <br>
+> Login: SSIS <br>
+> Senha: 2023 <br>
 
 ## 07 (localhost/ADS/quasela.php) 
 
-· Ele pele mais uma senha <br>
+· Ele pede mais uma senha <br>
 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/c1b5696c-9738-44c5-a8e7-9730929cf8f7)
 
