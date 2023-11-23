@@ -79,6 +79,10 @@
 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/c1b5696c-9738-44c5-a8e7-9730929cf8f7)
 
+Inspecionar o elemento com CTRL + U assim que entrar na pagina, se der erro, confirmar envio de formulario <br>
+
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/3340a310-0d57-4f40-bbf9-e7b81703ea86) <br>
+
 > [!IMPORTANT] 
 > Senha: seja-rapido <br>
 
