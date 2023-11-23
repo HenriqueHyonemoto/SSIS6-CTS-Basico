@@ -43,7 +43,7 @@
 
 · Descobrimos que as imagens estão em uma pasta chamada /pictures/ <br>
 
-· Colocamos *localhost/ADS/pictures/* na URL e encontramos varias imagens <br>
+· Colocamos *http://birazn.ddns.net/pictures/* na URL e encontramos varias imagens <br>
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/59c66db0-8ac9-47e7-aeed-390b0b468125)
  <br>
 · imagem.png contém <br>
@@ -71,7 +71,7 @@
 > Login: SSIS <br>
 > Senha: 2023 <br>
 
-## 07 (localhost/ADS/quasela.php) 
+## 07 (http://birazn.ddns.net/quasela.php) 
 
 · Ele pede mais uma senha <br>
 
@@ -84,7 +84,7 @@ Inspecionar o elemento com CTRL + U assim que entrar na pagina, se der erro, con
 > [!IMPORTANT] 
 > Senha: seja-rapido <br>
 
-## 08 (localhost/ADS/desafio/seja-rapido.php)
+## 08 (http://birazn.ddns.net/desafio/seja-rapido.php)
 · Codigo fonte fala sobre pressionar teclas, testei todas, mas nenhuma funcionou
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/03dea725-f6bb-41b2-98bb-a2d876df33f3)
 
@@ -95,23 +95,19 @@ Codigo do javascript tem os KEYCODES "27,83,54,73 -> Escape, S, 6, i"
 > Pressione as Teclas: <br> 
 > Escape, S, 6, i <br>
 
-## 09 (localhost/ADS/fasefinal.php)
+## 09 (http://birazn.ddns.net/fasefinal.php)
 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/f0324392-710c-46c6-8abf-11dda7d0daa7)
 
 
-![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/a8810d42-e434-438a-b94b-1edaf17bf39d)
 
-· Clicar no botão leva para uma pagina externa:
+
+
+## 10  (overthewire.org/wargames/bandit/)???
+
+· Essa era a Fase 10 do primeiro desafio.
 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/58ec0093-9300-4415-8c77-91d1a1ecc39a)
-
-> [!WARNING] 
-> ???  <br>
-
-## 10 ??? (overthewire.org/wargames/bandit/)???
-
-???
 
 > [!WARNING] 
 > ???  <br>
