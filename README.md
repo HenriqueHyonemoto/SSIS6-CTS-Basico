@@ -41,6 +41,11 @@
 · Codigo fonte fala sobre algum arquivo de leitura <br>
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7ee5e7a-9e33-4799-88d9-c8500fc4d111) <br>
 
+· Analisamos a imagem duvida.png (que é o emoji) <br>
+
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/3560538c-422a-410b-b8fc-b0eb4bc6e4cf)
+
+
 · Descobrimos que as imagens estão em uma pasta chamada /pictures/ <br>
 
 · Colocamos *http://birazn.ddns.net/pictures/* na URL e encontramos varias imagens <br>
