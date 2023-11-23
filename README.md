@@ -88,14 +88,23 @@ Inspecionar o elemento com CTRL + U assim que entrar na pagina, se der erro, con
 
 De onde?
 
+
+
 ## 08 (localhost/ADS/desafio/seja-rapido.php)
 · Codigo fonte fala sobre pressionar teclas, testei todas, mas nenhuma funcionou
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/03dea725-f6bb-41b2-98bb-a2d876df33f3)
 
-> [!WARNING] 
-> ???  <br>
+Codigo do javascript tem os KEYCODES "27,83,54,73 -> Escape, S, 6, i"
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/a29be435-533a-4860-a542-9003a4bf717d)
+
+> [!WARNING]
+> Pressione as Teclas: <br> 
+> Escape, S, 6, i <br>
 
 ## 09 (localhost/ADS/fasefinal.php)
+
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/f0324392-710c-46c6-8abf-11dda7d0daa7)
+
 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/a8810d42-e434-438a-b94b-1edaf17bf39d)
 
