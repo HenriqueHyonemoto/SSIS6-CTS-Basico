@@ -60,8 +60,9 @@
 > [!NOTE] 
 > Senha: VP123456 <br>
 
-## 06 (localhost/ADS/dificultando-nivel.php)
-![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9c0fb9ad-7d61-410a-a44f-1a95fd551f17)<br>
+## 06 (http://birazn.ddns.net/dificultando-nivel.php)
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/ef1ddd60-5745-4768-8660-5d0b0ddd30e9)
+<br>
 · No arquivo dificultando-nivel.psd é encontrado uma camada chamada Login e Senha:
 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b07669bb-4fcc-4e16-a1bc-2bb4487f8b0b) <br>
