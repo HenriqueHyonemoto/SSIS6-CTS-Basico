@@ -4,13 +4,13 @@
 · Abra *localhost/ADS* no seu navegador <br>
 
 # Respostas
-## 01 (localhost/ADS/)->indexx.php
+## 01 (http://birazn.ddns.net/)
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/7c6e61c6-8536-4fd9-b626-9478d545fe48) <br>
 > [!NOTE]
 > Primeiro: HHyonemoto <br>
 > Prontuario: VP123456 <br>
 
-## 02 (localhost/ADS/)->0.php
+## 02 http://birazn.ddns.net/
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/c6af3fc8-fb03-4395-97f0-af27a086ba20) <br>
 
 · Pesquisar por HASH decode <br>
@@ -20,7 +20,7 @@
 > Senha: 12$eqd&;asd990- <br>
 *é necessario digitar no campo <br>
 
-## 03  (localhost/ADS/)->1.php
+## 03  http://birazn.ddns.net/
 · Dando CTRL + A na pagina, é possivel ver um texto "Prova de Segurança! Siga para a pagina valendoo.php" <br>
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9a8750c0-b099-4ef0-88c0-1b64e7babcc0) <br>
 
@@ -37,7 +37,7 @@
 · Clicamos nele
 > ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/86273506-451f-4464-afe8-975d87dd51be) <br>
 
-## 04 (localhost/ADS/)->valendoo.php   
+## 04 http://birazn.ddns.net/->valendoo.php   
 · Codigo fonte fala sobre algum arquivo de leitura <br>
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7ee5e7a-9e33-4799-88d9-c8500fc4d111) <br>
 
@@ -50,7 +50,7 @@
 
 · Coloca o nome da pagina na URL <br>
 > [!NOTE] 
-> localhost/ADS/pictures/dificultando.php <br>
+> [localhost/ADS/pictures/dificultando.php](https://birazn.ddns.net/dificultando.php) <br>
 
 ## 05 (localhost/ADS/dificultando.php)   
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7b3900c-fac8-456a-92a5-2370488ef796) <br>
@@ -85,10 +85,6 @@ Inspecionar o elemento com CTRL + U assim que entrar na pagina, se der erro, con
 
 > [!IMPORTANT] 
 > Senha: seja-rapido <br>
-
-De onde?
-
-
 
 ## 08 (localhost/ADS/desafio/seja-rapido.php)
 · Codigo fonte fala sobre pressionar teclas, testei todas, mas nenhuma funcionou
