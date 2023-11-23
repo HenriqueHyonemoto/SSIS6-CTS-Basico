@@ -42,30 +42,27 @@
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7ee5e7a-9e33-4799-88d9-c8500fc4d111) <br>
 
 · Descobrimos que as imagens estão em uma pasta chamada /pictures/ <br>
-![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/baa3d55c-e600-4ec5-bcc2-815831135187) <br>
+
 · Colocamos *localhost/ADS/pictures/* na URL e encontramos varias imagens <br>
-![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/28ce7226-8c43-4590-85ff-123f36ddd6de) <br>
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/59c66db0-8ac9-47e7-aeed-390b0b468125)
+ <br>
 · imagem.png contém <br>
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/0d4ed7bf-e8a6-4bcf-acb4-9d10f32113d3) <br>
 
 · Coloca o nome da pagina na URL <br>
 > [!NOTE] 
-> [localhost/ADS/pictures/dificultando.php](https://birazn.ddns.net/dificultando.php) <br>
+> birazn.ddns.net/dificultando.php <br>
 
-## 05 (localhost/ADS/dificultando.php)   
+## 05 (birazn.ddns.net/dificultando.php)   
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b7b3900c-fac8-456a-92a5-2370488ef796) <br>
 
-· Este nivel diz que é necessario chamar o professor pra poder completar a fase <br>
-
-· Troquei o codigo original, aqui por 4 (pois esse comando conta o lugar que a palavra ta na url, os anteriores estavam 4, porém esse estava 5, o que necessitaria de dificultando.php estar entro de mais uma pasta ao invés de ADS (Ex ADS/PastaNova/dificultando.php).<br>
-![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/649c93a3-192e-4c74-841b-fc5bbcad4172) <br>
 · Digite a senha e clique no botão normalmente <br>
 > [!NOTE] 
 > Senha: VP123456 <br>
+
 ## 06 (localhost/ADS/dificultando-nivel.php)
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9c0fb9ad-7d61-410a-a44f-1a95fd551f17)<br>
-· No arquivo logo.psd é encontrado uma camada chamada:
-![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9d7cde39-bbdf-497b-85e7-d28a15753af9)<br>
+· No arquivo dificultando-nivel.psd é encontrado uma camada chamada Login e Senha:
 
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b07669bb-4fcc-4e16-a1bc-2bb4487f8b0b) <br>
 
