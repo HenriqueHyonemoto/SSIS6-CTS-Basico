@@ -67,6 +67,8 @@
 · No arquivo logo.psd é encontrado uma camada chamada:
 ![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/9d7cde39-bbdf-497b-85e7-d28a15753af9)<br>
 
+![image](https://github.com/HenriqueHyonemoto/SSIS6-CTS-Basico/assets/91375748/b07669bb-4fcc-4e16-a1bc-2bb4487f8b0b) <br>
+
 > [!NOTE]
 > Login: onucleo <br>
 > Senha: 2019 <br>
